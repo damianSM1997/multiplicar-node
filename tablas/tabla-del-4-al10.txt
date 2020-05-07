@@ -1,0 +1,10 @@
+El resultado de 4 * 1 = 4
+El resultado de 4 * 2 = 8
+El resultado de 4 * 3 = 12
+El resultado de 4 * 4 = 16
+El resultado de 4 * 5 = 20
+El resultado de 4 * 6 = 24
+El resultado de 4 * 7 = 28
+El resultado de 4 * 8 = 32
+El resultado de 4 * 9 = 36
+El resultado de 4 * 10 = 40

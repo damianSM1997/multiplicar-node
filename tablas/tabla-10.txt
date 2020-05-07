@@ -1,0 +1,10 @@
+El resultado de 10 * 1 = 10
+El resultado de 10 * 2 = 20
+El resultado de 10 * 3 = 30
+El resultado de 10 * 4 = 40
+El resultado de 10 * 5 = 50
+El resultado de 10 * 6 = 60
+El resultado de 10 * 7 = 70
+El resultado de 10 * 8 = 80
+El resultado de 10 * 9 = 90
+El resultado de 10 * 10 = 100

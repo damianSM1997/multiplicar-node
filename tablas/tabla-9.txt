@@ -1,0 +1,10 @@
+El resultado de 9 * 1 = 9
+El resultado de 9 * 2 = 18
+El resultado de 9 * 3 = 27
+El resultado de 9 * 4 = 36
+El resultado de 9 * 5 = 45
+El resultado de 9 * 6 = 54
+El resultado de 9 * 7 = 63
+El resultado de 9 * 8 = 72
+El resultado de 9 * 9 = 81
+El resultado de 9 * 10 = 90

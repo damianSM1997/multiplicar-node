@@ -1,0 +1,10 @@
+El resultado de 7 * 1 = 7
+El resultado de 7 * 2 = 14
+El resultado de 7 * 3 = 21
+El resultado de 7 * 4 = 28
+El resultado de 7 * 5 = 35
+El resultado de 7 * 6 = 42
+El resultado de 7 * 7 = 49
+El resultado de 7 * 8 = 56
+El resultado de 7 * 9 = 63
+El resultado de 7 * 10 = 70

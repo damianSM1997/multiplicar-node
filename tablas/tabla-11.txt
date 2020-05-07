@@ -1,0 +1,10 @@
+El resultado de 11 * 1 = 11
+El resultado de 11 * 2 = 22
+El resultado de 11 * 3 = 33
+El resultado de 11 * 4 = 44
+El resultado de 11 * 5 = 55
+El resultado de 11 * 6 = 66
+El resultado de 11 * 7 = 77
+El resultado de 11 * 8 = 88
+El resultado de 11 * 9 = 99
+El resultado de 11 * 10 = 110

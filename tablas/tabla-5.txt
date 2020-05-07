@@ -1,0 +1,10 @@
+El resultado de 5 * 1 = 5
+El resultado de 5 * 2 = 10
+El resultado de 5 * 3 = 15
+El resultado de 5 * 4 = 20
+El resultado de 5 * 5 = 25
+El resultado de 5 * 6 = 30
+El resultado de 5 * 7 = 35
+El resultado de 5 * 8 = 40
+El resultado de 5 * 9 = 45
+El resultado de 5 * 10 = 50
